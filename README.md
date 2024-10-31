@@ -1,1 +1,1 @@
-LIHAT DEMO(https://github.com/ikouropmabin/design-template-bootstrap5/blob/master/index.html)
+LIHAT DEMO(file:///C:/xampp/htdocs/PROJECT-1/index.html)
